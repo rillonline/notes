@@ -1,7 +1,6 @@
 ---
 layout: post
-category: Writing
-date: August 29, 2021
+tags: Writing
 title: A New Adventure Idea
 ---
 

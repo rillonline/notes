@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Posts by Categories
+title: Posts by Tags
 ---
-## Posts by Categories
-
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
