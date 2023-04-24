@@ -1,6 +1,6 @@
 title: Notes to Myself
-author:
-  name: Rill
+# author:
+#  name: Rill
   # email: your-email@domain.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
@@ -51,3 +51,5 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 # show_excerpts: false
+
+markdown: kramdown
