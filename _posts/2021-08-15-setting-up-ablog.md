@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Setting up Ablog"
-tag: Linux
+tag: project
 ---
 
 ## Background ##
