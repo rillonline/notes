@@ -1,10 +1,9 @@
 ---
 title: "Building This Blog"
 layout: post
-tags: project thinking-out-loud
+tags: project-log 
 ---
-The remote build of my ~Jekyl
-l~ site on ~github~ is failing because of a ~gems~ problem. I don't understand this at all so I have two choices:
+The remote build of my ~Jekyll~ site on ~github~ is failing because of a ~gems~ problem. I don't understand this at all so I have two choices:
 
 1. Dig into help.
 2. Go with Jekyll for Designers files.
