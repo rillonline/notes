@@ -1,9 +1,8 @@
 ---
 layout: post
-date: August 16, 2021
 tags: essays
-title: "Entry Points"---
-
+title: "Entry Points"
+---
 
 I remember when people used paper road maps. Most gas stations stocked
 them. They were free for the asking. After all, gas stations were the
