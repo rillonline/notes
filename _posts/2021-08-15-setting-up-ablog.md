@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Setting up Ablog
+title: "Setting up Ablog"
 tag: Linux
 ---
 
