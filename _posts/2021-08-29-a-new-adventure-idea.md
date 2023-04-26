@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: Writing
+tags: Writing fiction
 title: A New Adventure Idea
 ---
 

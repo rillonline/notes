@@ -1,8 +1,7 @@
 ---
 layout: post
-date: August 16, 2021
-tag: project
-title: "Using EWW on Emacs" #
+tag: project emacs
+title: "Using EWW on Emacs"
 ---
 
 Since `eww` stands for [Emacs Web Wowser][eww] (No, I'm not kidding!)

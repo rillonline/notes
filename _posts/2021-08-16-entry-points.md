@@ -1,6 +1,6 @@
 ---
 layout: post
-tags: essays
+tags: essays writing
 title: "Entry Points"
 ---
 
