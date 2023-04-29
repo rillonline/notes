@@ -50,5 +50,5 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: true
-permalink: /:title
+permalink: /year/:month/:day/:/:title
 posts_limit: 50
