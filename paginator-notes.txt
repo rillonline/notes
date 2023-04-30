@@ -1,0 +1,7 @@
+Received message. You can use the `jekyll-paginate` plugin to paginate posts on GitHub Pages. 
+To use this plugin, you need to add `paginate: NUMBER_OF_POSTS_PER_PAGE` and `paginate_path: URL_FORMAT_FOR_PAGES` to your `_config.yml` file. 
+For example, if you want to show 10 posts per page and have the URL format for pages be `/page1`, `/page2`, etc., you would add the following to your `_config.yml` file: 
+```yaml paginate: 10 
+paginate_path: "/page:num" ``` 
+After adding these lines to your `_config.yml` file, you can use the `paginator` object in your Liquid templates to generate pages of posts. 
+For example, you can use the following code to generate a list of post titles on each page: ```liquid {% for post in paginator.posts %} <h2>{{ post.title }}</h2> {% endfor %} ``` You can also add navigation links to let users go to the next and previous pages of posts: ```liquid {% if paginator.previous_page %} <a href="{{ paginator.previous_page_path }}">Previous</a> {% endif %} {% if paginator.next_page %} <a href="{{ paginator.next_page_path }}">Next</a> {% endif %} ``` Is there anything else you would like to know?

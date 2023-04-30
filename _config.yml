@@ -13,6 +13,7 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+    - jekyll-paginate
 
 # Theme-specific settings
 
@@ -50,5 +51,7 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: true
-permalink: /year:month:day:title
+permalink: /:year:month:day:title
 # posts_limit: 50
+paginate: 5
+paginate_path: /page:num
