@@ -54,4 +54,4 @@ show_excerpts: true
 permalink: /:year:month:day:title
 # posts_limit: 50
 paginate: 5
-paginate_path: /page:num
+paginate_path: '/notes/page:num/'
