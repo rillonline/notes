@@ -2,6 +2,7 @@
 layout: post
 tags: writing poetry
 title: On Wisconsin
+exerpt: "My mother pulls on the Tauro rope."
 
 ---
 
