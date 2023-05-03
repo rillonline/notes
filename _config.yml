@@ -51,7 +51,8 @@ minima:
 # Set to `true` to show excerpts on the homepage.
 #
 show_excerpts: true
-permalink: pretty
 posts_limit: 5
 paginate: 5
 paginate_path: '/notes/page:num/'
+baseurl: "/rillonline.github.io" 
+url: "http://rillonline.github.io/notes" 
