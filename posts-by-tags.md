@@ -6,7 +6,7 @@ title: Posts by Tags
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
-      <li><a href="{{ post.url }}">{{ post.title }}</a> {{ post.date }} </li>
+          <li><a href="{{ post.url }}">{{ post.title }}</a>, published {{ post.date | date: "%Y-%m-%d" }}</li>
     {% endfor %}
   </ul>
 {% endfor %}
