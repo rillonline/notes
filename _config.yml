@@ -54,5 +54,3 @@ show_excerpts: true
 posts_limit: 5
 paginate: 5
 paginate_path: '/notes/page:num/'
-baseurl: "/rillonline.github.io" 
-url: "http://rillonline.github.io/notes" 
