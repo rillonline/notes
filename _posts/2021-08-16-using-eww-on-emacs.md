@@ -1,6 +1,6 @@
 ---
 layout: post
-tag: project emacs
+tags: project emacs
 title: "Using EWW on Emacs"
 ---
 
