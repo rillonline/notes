@@ -6,7 +6,7 @@ title: Posts by Tags
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
-              {% assign full_url = site.url | append: post.url %}
+              {% assign full_url = site.url | append: '/notes' | append: post.url %}
           <li><a href="{{ full_url }}">{{ post.title }}</a>, published {{ post.date | date: "%Y-%m-%d" }}</li>
     {% endfor %}
   </ul>
